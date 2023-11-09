@@ -1,10 +1,10 @@
 'use client'
 
 import Link from 'next/link';
+import React, { useState } from "react";
 import { AiOutlineEye } from 'react-icons/ai';
 import { BsFillEnvelopeFill } from "react-icons/bs"
 
-import React, { useState } from 'react';
 
 import Bolon from "./MFY/Bolon"
 import Oyqiron from "./MFY/Oyqiron"
@@ -63,7 +63,6 @@ import Sarkor from "./MFY/Sarkor";
 import Nurafshon from "./MFY/Nurafshon";
 import Tinchlik from "./MFY/Tinchlik";
 import Navruz from "./MFY/Navruz";
-import React, { useState } from "react";
 
 import { BiListPlus } from "react-icons/bi"
 
