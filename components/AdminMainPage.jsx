@@ -4,7 +4,7 @@ import Link from 'next/link';
 import { AiOutlineEye } from 'react-icons/ai';
 import { BsFillEnvelopeFill } from "react-icons/bs"
 
-
+import React, { useState } from 'react';
 
 import Bolon from "./MFY/Bolon"
 import Oyqiron from "./MFY/Oyqiron"
